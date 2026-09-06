@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 131"
+  short_description: "Doodle Photo Collage"
+  default_prompt: "Use $xxd-panel-131 to transform my photograph using the complete canonical source brief."
