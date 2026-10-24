@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 131"
-  short_description: "Doodle Photo Collage"
-  default_prompt: "Use $xxd-panel-131 to transform my photograph using the complete canonical source brief."
+  short_description: "摄影涂鸦拼贴志：把照片剪成一小簇碎片，加黑色手绘框和涂鸦，像白纸上的剪贴本"
+  default_prompt: "Use $xxd-panel-131 to turn my photo into Doodle Photo Collage artwork."

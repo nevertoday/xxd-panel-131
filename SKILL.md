@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-131
-description: "Create XXD Panel 131 raster artwork from photographs using small photographic-fragment clusters, rough black hand-drawn frames, sparse doodles, personal zine notes and white space. Use when the user invokes xxd-panel-131 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 131｜Doodle Photo Collage: keeps real photo fragments instead of redrawing them, cutting a few key pieces of the photo and arranging them as one small cluster in an irregular grid or offset modules with rough hand-drawn black borders and a few doodles (suns, stars, smiley faces, arrows, brackets, cups), on a clean white or pale warm-white page like a scrapbook or zine, in 2–4 colours from the photo, with handwritten-style notes in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-131 or asks for scrapbook, zine, doodle-on-photo or hand-drawn photo collage layouts from a photo."
 ---
 
 # XXD Panel 131
